@@ -11,11 +11,11 @@ This is a simple Go application that starts an HTTP server and responds with "he
 ### Cloning the Repository
 To clone the repository, use the following command:
 ```bash
-git clone https://github.com/Mates182/GO.PracticeTask.git
+git clone https://github.com/EstebanASM/APP.GO.git
 ```
 Navigate to the project directory:
 ```bash
-cd GO.PracticeTask
+cd APP.GO
 ```
 
 ### Running the Application Locally (Without Docker)
@@ -30,9 +30,9 @@ cd GO.PracticeTask
    ```
 2. Access the application in your browser at:
    ```
-   http://localhost:8080
+   http://localhost:8086
    ```
 
 ### Running the Application with Docker
 
-To run the application with docker, visit the Docker Hub Repository of this proyect: [mates182/go_practicetask on Docker Hub](https://hub.docker.com/repository/docker/mates182/go_practicetask)
+To run the application with docker, visit the Docker Hub Repository of this proyect: [estebanandres/hellogo on Docker Hub](https://hub.docker.com/repository/docker/estebanandres/hellogo/general)
